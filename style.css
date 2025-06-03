@@ -1,0 +1,39 @@
+@font-face {
+	font-family: "determination sans";
+	src: url("determination sans.ttf");
+}
+body {
+	background-color: black;
+	font-family: "determination sans";
+	font-size: 2.65em;
+	font-smooth: never;
+}
+#howtocenteradiv {
+	width: 60%;
+	margin-left: 20%;
+	margin-bottom: 10%;
+	margin-top: 10%;
+	margin-right: 20%;
+	white-space: pre-wrap;
+}
+a {
+	color: #FFFF00;
+}
+#citation {
+	color: #9999FF;
+}
+#main {
+	color: #FFFFFF;
+}
+#less {
+	color: #888888;
+}
+#dim {
+	color: #333333;
+}
+#secret {
+	color: #660000;
+}
+#eyalia {
+	color: #E9471A;
+}
